@@ -32,4 +32,8 @@ bikeshare.py , README.md , .gitingore
 
 ### Credits
 https://github.com/micki1717/pdsnd_github
->>>>>>> documentation
+
+
+### branch created
+documentation, refactoring 
+
